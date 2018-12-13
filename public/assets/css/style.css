@@ -1,0 +1,53 @@
+/* MENUS */
+
+header{
+  margin-bottom: 5rem;
+}
+nav {
+  margin-top: 1em;
+}
+
+/* FOOTER */
+footer {
+  border-top: 10px solid #17a2b8;
+  padding: .4em;
+  font-size: .8em;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+nav a:hover{
+  color: white;
+  text-decoration: none;
+  border: 1px solid #007bff;
+  background-color: #007bff;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 25px
+
+}
+
+.container{
+  margin-bottom: 5rem;
+}
+.centerPart{
+  padding: 2em;
+}
+
+.correct{
+  background-color: #28a745;
+  padding: 0.4rem;
+  color:white;
+  font-weight: bold;
+  border-radius: 10%;
+}
+
+.wrong{
+  background-color: red;
+  padding: 0.4rem;
+  color:white;
+  font-weight: bold;
+  border-radius:10%;
+}

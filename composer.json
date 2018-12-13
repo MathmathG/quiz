@@ -1,0 +1,22 @@
+{
+    "name": "mint/quiz",
+    "description": "Site de quiz.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mathmathg",
+            "email": "gle.mathieu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "symfony/var-dumper": "^3.4",
+      "altorouter/altorouter": "^1.2",
+      "league/plates": "^3.3"
+      },
+        "autoload": {
+  "psr-4": {
+    "Oquiz\\": "app/"
+  }
+}
+}
